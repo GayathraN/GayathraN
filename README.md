@@ -11,7 +11,7 @@
 
 - 👯 I’m looking for an **Internship to Complete my B.Sc.(Hons) Degree.**
 
-- 💬 Ask me about **Java,Flutter,MERN**
+- 💬 Ask me about **Java, Flutter, MERN**
 
 - 📫 How to reach me **gnilupulg002@gmail.com**
 
