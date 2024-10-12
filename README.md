@@ -7,11 +7,11 @@
 
 <p align="left"> <a href="https://twitter.com/GayathraNi13199" target="blank"><img src="https://img.shields.io/twitter/follow/Gayathra Nilupul?logo=twitter&style=for-the-badge" alt="Gayathra Nilupul" /></a> </p>
 
-- 🌱 I’m currently learning **React.Js**
+- 🌱 I’m currently learning **Spring boot, Spring security**
 
-- 👯 I’m looking for an **Internship to Complete my B.Sc.(Hons) Degree.**
+- 👯 I’m looking for a **New position Associate Software engineer To start my career**
 
-- 💬 Ask me about **Java, Flutter, MERN**
+- 💬 Ask me about **Java,,Spring boot, Flutter, MERN**
 
 - 📫 How to reach me **gnilupulg002@gmail.com**
 
